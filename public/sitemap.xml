@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/soars19ctds/about/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/soars19ctds/post/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/soars19ctds/projects/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/soars19ctds/resources/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/soars19ctds/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/soars19ctds/tags/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/soars19ctds/2019/05/28/week-0-first-thoughts/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/soars19ctds/tags/development/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/soars19ctds/tags/journal/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/soars19ctds/tags/projects/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/soars19ctds/tags/python/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/soars19ctds/tags/weekly-updates/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/soars19ctds/contact/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/soars19ctds/workshop/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
