@@ -1,0 +1,71 @@
+baseurl = "/soars19ctds/" # "https://example.com/"
+title = "SOARS 2019"
+theme = "ghostwriter"
+languageCode = "en-us"
+copyright = "Keith Maull and the SOARS Program"
+
+[Privacy]
+
+[Privacy.disqus]
+    disable = true
+
+[Privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+
+[Author]
+    name = "SOARS"
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    intro = true
+    headline = "SOARS 2019"
+    description = "Computational Thinking and Data Science Workshops"
+    github = "https://github.com/NCAR/soars19ctds"
+    email = "kmaull@ucar.edu"
+    opengraph = true
+    shareTwitter = false
+    shareFacebook = false
+    shareGooglePlus = false
+    shareLinkedIn = false
+    dateFormat = "Mon, Jan 2, 2006"
+    highlightJsUrl = ""
+    highlightJsLocalUrl = ""
+    exponeaJsUrl = ""
+    exponeaTarget = ""
+    exponeaToken = ""
+    exponeaTrackVisits = false
+    readingTime = true
+    readingTimeText = "Estimated reading time:"
+
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
+
+[[menu.main]]
+    name = "Journal"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 3
+
+[[menu.main]]
+    name = "Workshop"
+    url = "/workshop"
+    weight = 2
+
+
+[[menu.main]]
+    name = "Resources"
+    url = "/resources"
+    weight = 3
+
+[[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 4
