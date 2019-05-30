@@ -1,4 +1,4 @@
-baseurl = "/soars19ctds/" # "https://example.com/"
+baseurl = "" # ""/soars19ctds/"
 title = "SOARS 2019"
 theme = "ghostwriter"
 languageCode = "en-us"
@@ -15,7 +15,7 @@ copyright = "Keith Maull and the SOARS Program"
     useSessionStorage = false
 
 [Author]
-    name = "SOARS"
+    name = "SOARS - Keith Maull"
 
 [Taxonomies]
     tag = "tags"

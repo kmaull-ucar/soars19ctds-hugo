@@ -81,3 +81,6 @@
             </header>
 
             <div id="container">
+{{ if or .Params.math .Site.Params.math }}
+{{ partial "math.html" . }}
+{{ end }}
