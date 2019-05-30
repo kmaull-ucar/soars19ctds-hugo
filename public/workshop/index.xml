@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SOARS 2019</title>
+    <link>/soars19ctds/workshop/</link>
+    <description>Recent content on SOARS 2019</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Keith Maull and the SOARS Program</copyright>
+    
+	<atom:link href="/soars19ctds/workshop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
