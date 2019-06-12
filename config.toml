@@ -1,4 +1,4 @@
-baseurl = "" # ""/soars19ctds/"
+baseurl = "/soars19ctds/"
 title = "SOARS 2019"
 theme = "ghostwriter"
 languageCode = "en-us"
@@ -56,7 +56,7 @@ copyright = "Keith Maull and the SOARS Program"
 
 [[menu.main]]
     name = "Workshop"
-    url = "/workshop"
+    url = "/workshop/"
     weight = 2
 
 
